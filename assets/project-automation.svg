@@ -1,0 +1,9 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" rx="28" fill="#0F172A"/>
+  <rect x="60" y="70" width="160" height="220" rx="16" fill="#1F6FEB"/>
+  <rect x="250" y="110" width="140" height="180" rx="16" fill="#E2E8F0"/>
+  <rect x="420" y="80" width="160" height="210" rx="16" fill="#94A3B8"/>
+  <text x="60" y="320" font-family="Manrope, sans-serif" font-size="20" fill="#E2E8F0">
+    Automation Cell
+  </text>
+</svg>
