@@ -1,0 +1,9 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" rx="28" fill="#F1F5F9"/>
+  <circle cx="160" cy="180" r="70" fill="#1F6FEB"/>
+  <rect x="250" y="90" width="120" height="200" rx="24" fill="#0F172A"/>
+  <rect x="400" y="140" width="180" height="120" rx="24" fill="#CBD5F5"/>
+  <text x="60" y="320" font-family="Manrope, sans-serif" font-size="20" fill="#0F172A">
+    Robotic Arm
+  </text>
+</svg>
