@@ -1,0 +1,9 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" rx="28" fill="#E2E8F0"/>
+  <path d="M80 240C140 140 260 140 320 240C380 340 500 340 560 240" stroke="#1F6FEB" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="200" cy="170" r="48" fill="#0F172A"/>
+  <circle cx="420" cy="190" r="48" fill="#94A3B8"/>
+  <text x="60" y="320" font-family="Manrope, sans-serif" font-size="20" fill="#0F172A">
+    Sensor Fusion Rover
+  </text>
+</svg>
