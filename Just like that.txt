@@ -1,0 +1,106 @@
+HS
+Hussainali Saiyed
+
+Mechatronic Engineering New Grad
+
+Home
+About
+Resume
+Projects
+Contact
+Hello, I'm
+
+Hussainali Saiyed
+Mechanical Engineering graduate specializing in Mechatronics, with a dedicated focus on process engineering and continuous improvement methodologies. Adept at using data-driven insights and Python-based analysis to optimize system performance and operational efficiency. Proven ability to manage complex projects from conception to execution, with a meticulous approach to technical documentation and system integration
+
+View Projects
+Contact Me
+Systems Thinking
+Embedded control, CAD, rapid prototyping, and sensor integration.
+
+Hands-on Builds
+From prototype to deployment with clear documentation.
+
+Portrait of the engineer
+Replace with your professional headshot.
+
+About
+I am a mechatronic engineering new graduate focused on building intelligent systems that blend mechanics, electronics, and software. My work highlights attention to detail, strong documentation, and an eagerness to learn in multidisciplinary teams.
+
+In academic and personal projects, I have worked on motion control, automation systems, and sensor-driven robotics. I thrive in environments where cross-functional collaboration and rapid iteration are essential.
+
+Core Strengths
+Mechanical design (SolidWorks, Fusion 360)
+Embedded programming (C/C++, Python, MATLAB)
+Control systems and instrumentation
+Analytics(Python,Data Visualization)
+Coordination(Project management, Agile)
+Resume
+Download PDF
+Education
+Bachelor of Mechanical Engineering(Mechatronics)
+
+Sheridan College Institute of Technology · 2025
+
+Senior capstone: Smart System Sensor Integration
+Relevant coursework: PLC Programming, Industrial Robotics, Computer-Aided Design, Strength of Materials,Statistical Quality Control . Production Planning , Industry Saftey, Project Management
+Experience
+Mechanical Engineering Intern · Sheridan College
+
+Jan 2025 - Aug 2025
+
+Continuous Improvement: Analyzed key process metrics using Microsoft Excel to identify bottlenecks and implement workflow optimizations.
+Milestone Tracking: Managed technical data consolidation to ensure all project phases met strict delivery deadlines.
+Stakeholder Reporting: Translated complex technical findings into clear reports for senior management review
+Skills
+PLC Programming
+SolidWorks
+Arduino
+PID Control
+Python
+RCA
+Six Sigma
+C,C++
+Siemens S7
+Adv Excel
+Projects
+Each project includes a visual preview and a link to learn more.
+
+Automation cell preview
+Automated Sorting Cell
+Designed a PLC-driven system that classifies parts using sensors and pneumatic actuation.
+
+Read the case study
+Robotic arm preview
+6-DOF Robotic Arm
+Built a lightweight robotic arm with motion planning, inverse kinematics, and custom end-effector tooling.
+
+Explore the build log
+Sensor fusion preview
+Sensor Fusion Rover
+Integrated IMU, LiDAR, and GPS data for navigation and obstacle avoidance in a mobile rover.
+
+View project details
+Replace the project images with your own uploads and update each link to your documentation, GitHub repository, or a detailed report.
+
+Let's Connect
+Interested in collaboration, full-time roles, or research opportunities? Reach out and I'll respond quickly.
+
+Email: hussainali.saiyed786@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/hussain-ali-saiyed/
+
+Location: Toronto ,ON ,Canada
+
+© 2024 Mechatronic Engineering Portfolio. All rights reserved.
+
+
+
+Pumps Manufacturing
+Gujarat, India
+Automation Technician (Co-op)
+May2024–Aug2024– Troubleshot automated pump systems and equipment, maintaining strict adherence to industrial quality standards.– Developed daily operational reports to track equipment uptime, identifying trends to improve maintenance cycles.– Collaborated with production teams to resolve hardware-software interface issues on the manufacturing line.
+Landscaping Company Limited
+Project Coordinator (Co-op)
+Gujarat, India
+May2023–Aug2023– Directed site resources and daily schedules for multi-phase projects, maintaining 100% on-time delivery.– Managedproject budgets through meticulous procurement logging and material cost tracking
