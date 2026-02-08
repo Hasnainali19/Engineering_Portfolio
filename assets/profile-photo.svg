@@ -1,8 +1,0 @@
-<svg width="420" height="480" viewBox="0 0 420 480" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="420" height="480" rx="32" fill="#E2E8F0"/>
-  <circle cx="210" cy="170" r="90" fill="#CBD5F5"/>
-  <rect x="95" y="270" width="230" height="140" rx="70" fill="#CBD5F5"/>
-  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="Manrope, sans-serif" font-size="18" fill="#475569">
-    Add your photo here
-  </text>
-</svg>
